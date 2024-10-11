@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ziG1bV51tdpAM705uztl4rwCQFEtD0EJvjeJUQAZ8s39rqRsQBcXmxTV/L5naR27u5gllD6ARcEYVx0hBwO9yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lolt0\\Desktop\\gta5chaosmod\\ChaosModV\\ConfigApp\\ConfigApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lolt0\\.nuget\\packages\\extended.wpf.toolkit\\4.6.0\\extended.wpf.toolkit.4.6.0.nupkg.sha512",
+    "C:\\Users\\lolt0\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\lolt0\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\lolt0\\.nuget\\packages\\system.drawing.common\\8.0.1\\system.drawing.common.8.0.1.nupkg.sha512",
+    "C:\\Users\\lolt0\\.nuget\\packages\\zstdsharp.port\\0.7.5\\zstdsharp.port.0.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
